@@ -1,0 +1,33 @@
+/*{
+    font-family: 'Poppins', sans-serif;
+  }
+  input::-webkit-inner-spin-button,
+  input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+*/
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-inner-spin-button{
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.custom-bg{
+  background-color: #66d4bf;
+}
+
+.custom-bg:hover{
+  background-color: ☐ #279e8c;
+  }
