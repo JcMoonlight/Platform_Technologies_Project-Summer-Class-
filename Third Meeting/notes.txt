@@ -113,3 +113,19 @@ middle row code
                 </div>
 
             </div>
+
+
+Old navigation code
+
+        <!-- <div class="row align-items-left">
+                    <div class="col-8 col-sm-9"></div>
+                    <div class="nav-link col-1 col-sm-1 p-t-2">
+                        <h6><a href="#card-group-1" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Light link</a></h6>
+                    </div>
+                    <div class="col-1 col-sm-1">
+                        <h6><a href="#card-group-2" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Light link</a></h6>
+                    </div>
+                    <div class="col-1 col-sm-1">
+                        <h6><a href="#card-group-2" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Light link</a></h6>
+                    </div>
+                </div> -->
